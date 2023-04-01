@@ -3,4 +3,4 @@ it's a GUI project which shows a random quotes of `kanye west` after clicking th
 `website-https://www.kanye.rest/?ref=hackernews`
 
 # Intallation
-for this project you will `tkinter` and `requests` libs
+for this project you will need `tkinter` and `requests` libs
